@@ -11,3 +11,5 @@ Schließlich erreichte Markus einen versteckten Raum im Dungeon, in dem ein myst
 Erfrischt und gestärkt machte sich Markus auf den Weg, um die letzte Etappe seiner Quest zu erfüllen. Er kämpfte gegen eine Horde von untoten Kreaturen und bestand Prüfungen, die kaum ein anderer Held überlebt hätte.
 
 Nachdem der Held den Heiltrank aufgesammelt hat, ging er tiefer in den Dungeon ein, um seine Quest zu erfüllen. Jedoch stößt er auf eine Gruppe von Goblins.
+
+Nach einem harten Kampf, wurden alle Goblins erlegt. Jedoch hat der Held eine kleine Wunde erhalten, die nicht groß genug war, um jetzt den Heiltrank dafür aufzubrauchen.
