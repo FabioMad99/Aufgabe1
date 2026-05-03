@@ -45,3 +45,24 @@ Zunächste habe ich mit **git log --oneline --decorate --graph** die ganzen comm
 - Direkt nach dem Shop (Tag3) sein Brot. (Als Getränk den Heiltrank)
 
 # Aufgabe 2.2
+Ich hatte leider Probleme mit dem Klonen und die Commits sind dann verloren gegangen. (selbst mit git reflog --all) 
+4.5 mit "git commit --amend" kann ich leider nur beschreiben.
+- In der stats.md die EXP auf 42 gesetzt und mit "git commit --amend" den letzten commit (Tag 4.5) als Basis genommen und diese commitet.
+
+4.6-4.8 sind als commits da
+Ich entschuldige mich dafür
+
+# Aufgabe 2.3
+
+Meiner Meinung nach...
+
+**Commit 46530b6:**
+- Rebase nicht als Commit-msg dokumentieren
+- spotlessApply anders schreiben (chore: code formatiert) wobei das auch überflüssig ist
+- EntetiyController wird auch angepasst aber nicht dokumentiert
+
+**Commit 3e37472:**
+- etwas verständlicher
+- "add some on use methods" = some ist unpräzise und *welche Methoden*?
+- "use new item onUse signature" würde das "use new" umändern zu update / refactor
+
